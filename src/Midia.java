@@ -4,7 +4,7 @@ import java.sql.Time;
 public class Midia {
     String titulo; 
     Time duração;
-    enum faixaEtaria;
+    Enum faixaEtaria;
     Date dataLancamento;
     String generos;
     int TotalAvNaoGostei;
